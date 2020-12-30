@@ -23,10 +23,9 @@ Upload the code contained in this sketch on to your board
 === Folder structure
 
 ....
- sketch123                => Arduino sketch folder
-  ├── sketch123.ino       => main Arduino file
-  ├── layout.png          => (optional) an image of the layout
-  └── ReadMe.adoc         => this file
+ dinosaur_game                => Arduino sketch folder
+  ├── dinosaur_game.ino       => main Arduino file
+  ├── layout.png              => an image of the circuit layout
 ....
 
 === License
