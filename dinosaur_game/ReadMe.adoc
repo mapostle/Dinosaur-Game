@@ -6,7 +6,7 @@
 
 = Project: Dinosaur Game
 
-Describe your project
+This Arduino sketch allows you to play Google's dinosaur game on an LCD display using just two buttons! 
 
 == Step 1: Installation
 Download and extract the .zip file. Additionally, make sure you have the TimerOne library installed. 
